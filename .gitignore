@@ -1,0 +1,4 @@
+# Ignore som fike for your repository
+/node_modules
+*.env
+.env
